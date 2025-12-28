@@ -21,6 +21,7 @@ There are only courses for the second semester of the first year of college
 * 人工智能导论
 * 专业英语
 * 最优化方法
+* 毛概
 
 ### Second semester of sophomore year (大二第二学期) 
 ... (still on the way)
